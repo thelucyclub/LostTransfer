@@ -2,9 +2,9 @@
 An extension of the vanilla MCPE TransferPacket!
 
 ## Features (TODO):
-- [ ] Open Transfer
-- [ ] Create SpecialPacket
-  - [ ] Bind with RakLib  
+- [x] Open Transfer
+- [x] Create SpecialPacket
+  - [x] Bind with RakLib  
 - [ ] Command Implentation
 - [ ] Automatic Transferring (if player kicked, etc.)
 - [ ] Transfer player to lobby on DisconnectEvent
