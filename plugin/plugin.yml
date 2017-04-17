@@ -1,0 +1,19 @@
+#name, main, version and api are required
+name: LostTransfer
+main: LostTransfer\MainClass
+version: 1.0.0
+api: [2.0.0, 3.0.0-ALPHA4, 3.0.0-ALPHA3, 3.0.0-ALPHA2]
+
+load: POSTWORLD
+author: PocketMine Team
+description: Example plugin showing the new API
+website: https://github.com/PocketMine/LostTransfer
+commands:
+ example:
+  description: Example command
+  usage: "transfer <IP> [Port|19132]"
+  permission: losttransfer.command.transfer
+permissions:
+ LostTransfer.command.transfer:
+  description: "Transfer!"
+  default: op

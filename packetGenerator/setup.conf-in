@@ -1,0 +1,11 @@
+... LostTransfer ...
+... by The Lucy Club ...
+... NOTE: All these settings are good the way they are. No need to change them!
+thread-limit: 5 ... For faster devices, maybe set to 8
+raklib-overflow-block: false ... Don't worry about this
+max-packets: 234 ... Maximum packets to have
+min-packets: 128 ... Minimum packets to have
+close-delay: -1 ... Leave like this or the network may lagg
+generator-preset: mcpe ... Do not change this
+generator-version: 1.0.6 ... Set this to current minecraft version
+generator-protocol: mcpe-1.0.6 ... Set this to minecraft protocol (most likely the version)
