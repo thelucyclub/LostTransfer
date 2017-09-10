@@ -1,4 +1,4 @@
-# LostTransfer
+# DEPRECATED PLEASE DON'T USE!!
 An extension of the vanilla MCPE TransferPacket!
 
 ## Features (TODO):
